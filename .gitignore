@@ -6,16 +6,11 @@ data_sheets/*
 chiSeperationTesting/*
 data_bids*/*
 data_raw/*
+fsaverage/*
 # data File types
 *.zip
-*.csv
 *.nii
 *.nii.gz
-*.png
-*.jpeg
-*.gif
-*.jpg
-*.txt
 *.RData
 *.pdf
 */*.md
@@ -24,6 +19,8 @@ data_raw/*
 *.mif
 *.tck
 */template*
+
+license.txt
 
 # log files
 *.log
